@@ -1,0 +1,101 @@
+
+
+body {
+    background-color:rgb(84, 31, 134);
+    font-family: Arial, sans-serif;
+  }
+
+main {
+    margin-top: 20px white;
+  }
+
+#corpo {
+    border-top: 12px solid white;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    color: white;
+    padding-top: 80px;
+    font-family: 'Comic Neue', cursive;
+
+
+ }
+
+.logo {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+a {
+    margin: 8px; 
+}
+
+.tempo-estimado {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    height: 10px;
+}
+
+p {
+    padding-top: 10px;
+    margin: 4px;
+    font-size: 12px;
+}
+
+.local {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    padding-top: 26px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+.acai {
+    background-color: rgb(172, 60, 224);
+    color: rgb(242, 241, 243); 
+    height: 40px;
+    padding: 5px 30px;
+    border-radius: 30px 30px 30px 30px ;
+    font-family: 'Comic Neue', cursive;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.bebidas {
+    background-color: rgb(172, 60, 224);
+    color: rgb(242, 241, 243); 
+    height: 40px;
+    padding: 4px 30px;
+    border-radius: 30px 30px 30px 30px ;
+    font-family: 'Comic Neue', cursive;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button {
+    margin: 10px;
+}
+
+
+
+
